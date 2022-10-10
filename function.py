@@ -5,7 +5,8 @@ def compare(a,b):
     else :
         return 0
 
+def add_func(a,b):
+    return a+b
 
-
-def add2(a):
-    return a + 1 + 1
+def addone(a):
+    return a +1 + 1
