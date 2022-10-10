@@ -4,3 +4,6 @@ def compare(a,b):
         return 1
     else :
         return 0
+
+def exp(x):
+    return exp(x)
