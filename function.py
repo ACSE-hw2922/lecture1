@@ -5,5 +5,11 @@ def compare(a,b):
     else :
         return 0
 
+
 def exp(x):
     return exp(x)
+
+
+def addone(a):
+    return a + 1
+
