@@ -7,5 +7,5 @@ def compare(a,b):
 
 
 
-def addone(a):
-    return a + 1
+def add2(a):
+    return a + 1 + 1
